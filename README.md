@@ -4,7 +4,7 @@ Here’s an updated **Terms of Service (ToS)** document for your game **Co-Opera
 
 **Co-Operator Terms of Service**
 
-**Last Updated: [Date]**
+**Last Updated: 2024**
 
 Welcome to **Co-Operator**! Please read these Terms of Service ("Terms") carefully before accessing or using Co-Operator (the "Game"). By accessing or using the Game, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Game.
 
