@@ -1,7 +1,3 @@
-Here’s an updated **Terms of Service (ToS)** document for your game **Co-Operator**:
-
----
-
 **Co-Operator Terms of Service**
 
 **Last Updated: 2024**
@@ -64,8 +60,5 @@ These Terms shall be governed by and construed in accordance with the laws of So
 The Company reserves the right to modify these Terms at any time. You will be notified of any changes, and your continued use of the Game after any such changes means you accept the revised Terms.
 
 ### 13. **Contact Information**
-If you have any questions or concerns regarding these Terms, please contact us at [Contact Email].
+If you have any questions or concerns regarding these Terms, please contact us at stefanroets00@gmail.com.
 
----
-
-Make sure to review this and adapt it to meet the specific legal requirements of your region, and consult legal counsel to ensure it's comprehensive.
